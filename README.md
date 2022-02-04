@@ -1,2 +1,2 @@
 # pspd
-Dedicated for Programming to Parallel and Distributed Systems
+Dedicated for Programming for Parallel and Distributed Systems
